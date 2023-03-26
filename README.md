@@ -7,3 +7,4 @@ Backend - Flask (Python);
 ORM - SQLAlchemy;
 Database - Mysql(I Used)
 
+- The live app - https://url-shortener-app-ritwik-real.onrender.com/
